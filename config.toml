@@ -1,4 +1,4 @@
-baseURL = 'http://strebeck.net/'
+baseURL = 'https://strebeck.net/'
 languageCode = 'en-us'
 title = 'Strebeck blog'
 theme = "terminal"
